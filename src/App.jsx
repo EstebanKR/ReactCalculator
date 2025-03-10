@@ -21,6 +21,7 @@ export default function App() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
+      <h3>calculator</h3>
       <div className="bg-white p-4 rounded-lg shadow-lg w-72">
         <input
           type="text"
